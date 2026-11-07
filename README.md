@@ -2,3 +2,5 @@
 
 Files created during Math, Statistics &amp; Probability courses from Udemy.com (With a Little Help from My Friends: Gemini,
 Perplexity, ChatGPT and Grok 😏)
+
+1. [The Mathematics of Cryptography with Dr James Grime](https://www.udemy.com/course/the-mathematics-of-cryptography-with-dr-james-grime)
