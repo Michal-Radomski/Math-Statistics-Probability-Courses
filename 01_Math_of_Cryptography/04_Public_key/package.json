@@ -1,0 +1,14 @@
+{
+  "name": "04_public_key",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "start": "clear && NODE_ENV=development nodemon index.ts",
+    "start2": "clear && NODE_ENV=development nodemon index2.ts"
+  },
+  "keywords": [],
+  "author": "Michal Radomski <michalra@op.pl>",
+  "license": "MIT",
+  "type": "commonjs"
+}

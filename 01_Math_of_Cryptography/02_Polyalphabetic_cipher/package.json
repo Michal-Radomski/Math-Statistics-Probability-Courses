@@ -1,5 +1,5 @@
 {
-  "name": "01_polyalphabetic_ciphers",
+  "name": "02_polyalphabetic_ciphers",
   "version": "1.0.0",
   "description": "",
   "main": "index.ts",
