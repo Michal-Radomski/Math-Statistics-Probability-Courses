@@ -1,0 +1,59 @@
+In probability and statistics, the **Poisson distribution** is a discrete probability distribution that expresses the
+probability of a given number of events occurring in a **fixed interval of time or space**, provided these events happen
+independently at a constant average rate.
+
+While the _binomial distribution_ tells you the probability of a specific number of successes out of a _fixed number of
+trials_, the Poisson distribution is used when **there is no fixed number of trials**—instead, you are counting how many
+times an event happens over a span of time, distance, area, or volume.
+
+---
+
+### Classic Real-World Examples
+
+- The number of emails you receive in an hour.
+- The number of cars passing through a toll booth in 10 minutes.
+- The number of typos on a single page of a book.
+- The number of meteorites striking a specific region over a year.
+
+---
+
+### The Poisson Formula
+
+To find the probability of getting exactly $k$ occurrences in a given interval, the formula is:
+
+$$P(X = k) = \frac{\lambda^k e^{-\lambda}}{k!}$$
+
+- **$k$** = the exact number of occurrences you want to find the probability for
+- **$\lambda$ (lambda)** = the expected (average) number of occurrences in that interval
+- **$e$** = Euler's number (a mathematical constant approximately equal to $2.71828$)
+- **$!$** = factorial
+
+---
+
+### Practical Example: Bakery Customers
+
+Imagine a local bakery knows from past data that they receive an average of **3 customers per hour** ($\lambda = 3$).
+
+**Question:** What is the probability that they will receive **exactly 5 customers** in the next hour ($k = 5$)?
+
+#### Step 1: Identify your variables
+
+- $\lambda = 3$
+- $k = 5$
+- $e \approx 2.71828$
+
+#### Step 2: Plug into the formula
+
+$$P(X = 5) = \frac{3^5 \times e^{-3}}{5!}$$
+
+#### Step 3: Calculate each part
+
+1. **$\lambda^k$:** $3^5 = 243$
+2. **$e^{-\lambda}$:** $e^{-3} \approx 0.04979$
+3. **$k!$:** $5! = 5 \times 4 \times 3 \times 2 \times 1 = 120$
+
+#### Step 4: Solve
+
+$$P(X = 5) = \frac{243 \times 0.04979}{120} = \frac{12.099}{120} \approx 0.1008 \text{ (or } 10.1\% \text{)}$$
+
+There is about a **10.1% chance** that exactly 5 customers will walk into the bakery in that hour.
