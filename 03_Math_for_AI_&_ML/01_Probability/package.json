@@ -1,0 +1,13 @@
+{
+  "name": "01_probability",
+  "version": "1.0.0",
+  "description": "",
+  "main": "seed.ts",
+  "scripts": {
+    "start": "clear && NODE_ENV=development nodemon seed.ts"
+  },
+  "keywords": [],
+  "author": "Michal Radomski <michalra@op.pl>",
+  "license": "MIT",
+  "type": "commonjs"
+}
