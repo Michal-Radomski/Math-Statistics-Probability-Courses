@@ -10,3 +10,5 @@ Perplexity, ChatGPT and Grok 😏)
 3. [Mathematics for AI & ML Developers : The Complete Course](https://www.udemy.com/course/mathematics-for-ai-ml-developers-the-complete-course)
 
 4. [Maths for quantum computing](https://www.udemy.com/course/maths-for-quantum-computing)
+
+5. [Probability and Statistics: Complete Course 2026](https://www.udemy.com/course/probability-and-statistics-complete-course)
