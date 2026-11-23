@@ -12,3 +12,5 @@ Perplexity, ChatGPT and Grok 😏)
 4. [Maths for quantum computing](https://www.udemy.com/course/maths-for-quantum-computing)
 
 5. [Probability and Statistics: Complete Course 2026](https://www.udemy.com/course/probability-and-statistics-complete-course)
+
+6. [Timeseries & Forecasting](https://www.udemy.com/course/supervised-learning-timeseries-forecasting)
